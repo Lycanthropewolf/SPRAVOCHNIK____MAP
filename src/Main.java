@@ -13,7 +13,7 @@ public class Main {
         Spravochnik.addDirectory(" VALENTIN","5688234");
         Spravochnik.addDirectory(" BORYA","56259684");
         Spravochnik.addDirectory(" SEREGA","8126876");
-        Spravochnik.addDirectory(" IGOR","463187624");
+        Spravochnik.addDirectory(" IGOR","4fdgeg4");
         Spravochnik.addDirectory(" VITYA","89531789");
         Spravochnik.addDirectory(" GLEB","8785652378");
         Spravochnik.addDirectory(" DENIS","45298532");
