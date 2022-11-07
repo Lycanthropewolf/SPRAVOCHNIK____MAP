@@ -21,8 +21,8 @@ public class Main {
         Spravochnik.addDirectory("GERA","345345986");
         Spravochnik.addDirectory(" YANA","345345943");
         Spravochnik.addDirectory(" RITA","34534543");
-        Spravochnik.addDirectory(" KATYA","86764837");
-        Spravochnik.addDirectory(" SONYA","86764837");
+        Spravochnik.addDirectory(" KATYA","4565745745");
+        Spravochnik.addDirectory(" SONYA","89678678");
         Spravochnik.printDirectoty();
 
     }

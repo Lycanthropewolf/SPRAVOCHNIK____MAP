@@ -11,7 +11,7 @@ public class Spravochnik {
         directory.put(name,telefonNamber);
     }
     public static void printDirectoty(){
-        System.out.println(directory.toString());
+        System.out.println(directory.entrySet());
     }
 
 }
